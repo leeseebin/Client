@@ -1,0 +1,30 @@
+﻿  ClientDlg.cpp
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(185,56): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(185,43): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(185,26): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(185,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(186,56): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(186,43): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(186,26): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(186,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(188,40): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(188,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(189,41): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(189,31): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(193,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(195,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(202,36): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(202,23): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(203,52): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(203,31): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(207,32): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(207,14): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(208,48): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(208,23): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(212,75): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(212,56): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(212,29): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(212,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(213,51): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\ChatClient\Client\Client\ClientDlg.cpp(213,37): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Client.vcxproj -> D:\Desktop\ChatClient\Client\x64\Debug\Client.exe
